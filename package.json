@@ -1,0 +1,22 @@
+{
+  "name": "public",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "public",
+    "start": "npx serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "public"
+  },
+  "keywords": [
+    "html",
+    "event",
+    "map",
+    "website"
+  ],
+  "author": "sheridan",
+  "license": "ISC"
+}
